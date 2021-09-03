@@ -48,17 +48,21 @@ Books, Organized By Author
 Books, Organized By Genre
         fantasy
                 The Name of the Wind by Patrick Rothfuss
+                Theft of Swords by Michael J. Sullivan
+                Rise of Empire by Michael J. Sullivan
+                Miss Peregrine's Home for Peculiar Children by Ransom Riggs
                 ---
-                Number of books: 1
-                Number of pages: 662
-                Number of hours: 7.8
+                Number of books: 4
+                Number of pages: 2182
+                Number of hours: 19.6
 
         fiction
                 A Series of Unfortunate Events: The Bad Beginning by Lemony Snicket
+                The Name of this Book is Secret by Pseudonymous Bosch
                 ---
-                Number of books: 1
-                Number of pages: 162
-                Number of hours: 2.1
+                Number of books: 2
+                Number of pages: 522
+                Number of hours: 6.3
 
         historical fiction
                 Echo by Pam Munoz Ryan

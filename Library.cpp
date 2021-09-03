@@ -74,6 +74,8 @@ void Library::organizeBooksByGenre() {
         else {
             std::vector<Book*> bookList = it->second;
             bookList.push_back(book);
+            //This is the last error! we need to make sure that it goes back to the booklist
+            it->second = bookList;
         }
     }
 }
