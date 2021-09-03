@@ -20,6 +20,8 @@ void Book::setGenre(std::string genre) {
     //This is error #2
     //It wasn't indicatint that the genre had been set when it set the genre
     genreSet = true;
+    genreSet = false;
+    genreSet = true;
 }
 
 void Book::setPages(std::string pages) {
